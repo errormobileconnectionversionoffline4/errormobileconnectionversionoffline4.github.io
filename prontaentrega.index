@@ -1,0 +1,181 @@
+<!DOCTYPE HTML>
+<!--
+	Phase Shift by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Phase Shift by TEMPLATED</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div class="wrapper style1">
+
+				<!-- Header -->
+					<div id="header" class="skel-panels-fixed">
+						<div id="logo">
+							<h1><a href="index.html">La Fruteria</a></h1>
+							<span class="tag"></span>
+						</div>
+						<nav id="nav">
+							<ul>
+								<li class="active"><a href="index.html">Nossos produtos:</a></li>
+								<li><a href="index.html">Início</a></li>
+							</ul>
+						</nav>
+					</div>
+
+				<!-- Banner -->
+					<div id="banner" class="container">
+						<section>
+							<br><br><br><br><br><br><br><br><br>
+						</section>
+					</div>
+
+				<!-- Extra -->
+					<div id="extra">
+						<div class="container">
+Abacate... $5,90kg<br>
+Abacaxi... $5,00<br>
+Abóbora Pescoço... $5,99kg<br>
+Abobrinha... $2,99kg<br>
+Aipim... $2,99kg<br>
+Aipim descascado... 7,99kg<br>
+Alface Crespa... $1,99 unid.<br>
+Alface Americana... $2,99 unid.<br>
+Alho... $25,90kg<br>
+Alho Poró... $2,99 unid.<br>
+Ameixa... 7,49kg<br>
+Banana Caturra... $4,99kg<br>
+Banana Prata... $4,99kg<br>
+Banana Orgânica (800g)... $5,99  <br>
+Batata Doce Branca... $2,99kg<br>
+Batata Doce Rosa... $2,99kg<br>
+Batata Inglesa Branca... $2,99kg<br>
+Batata Inglesa Rosa... $3,49kg <br>
+Berinjela... $3,79kg<br>
+Beterraba... $3,99kg<br>
+Brócolis... $5,99 unid.<br>
+Caqui Chocolate Preto... $5,49kg<br>
+Cebola... $3,99kg<br>
+Cebola roxa... $4,99kg<br>
+Cebolinha... $1,49 unid.<br>
+Cebolete... $1,49und.<br>
+Cenoura... $3,99kg<br>
+Chuchu... $3,49kg<br>
+Couve... $1,99 unid.<br>
+Couve Manteiga... $2,49 unid.<br>
+Couve Flor... $6,99 unid.<br>
+Espinafre... $3,49 unid.<br> 
+Gengibre... $21,90kg<br>
+Goiaba... $3,99 bandeja<br>
+Laranja Céu... $4,19kg<br>
+Laranja Suco... $2,99kg<br>
+Limão Taiti... $3,99kg<br>
+Maçã Gala (P)... $3,49kg<br>
+Maçã Gala (G)... $4,99kg<br>
+Mamão Formosa... $6,99kg<br>
+Mamão Papaya... 9,99kg<br>
+Manga... $6,90kg<br>
+Maracujá... $5,90kg <br>
+Mel de Eucalipto... $24,90kg<br>
+Melancia Inteira 10kg... $13,00<br>
+Melancia (pedaço)... $1,49kg<br>
+Melão Espanhol... $5,99kg<br>
+Melão Gaúcho... $2,99kg<br>
+Milho... $3,99 bandeja com 3 unid.<br>
+Moranga Cabotia... $1,99kg<br>
+Moranga Halloween... $1,49kg<br>
+Morango (bandeja)... $4,49<br>
+Pepino Japonês... $4,49kg<br>
+Pepino Salada... $3,49kg<br>
+Pêra Packans.. $8,99kg<br>
+Pêssego... $7,49kg <br>
+Pimentão Verde... $3,99kg<br>
+Pimentão Amarelo... $7,99kg<br>
+Pimentão Vermelho $7,99kg<br><br>
+Pitaya Vermelha... $8,99kg <br>
+Repolho Graúdo... $4,49 unid.<br><br>
+Repolho Roxo Graúdo.. $4,49 unid.<br>
+Rúcula... $2,49 und.<br>
+Salsinha (grande)... $1,99 unid.<br>
+Tomate Longa Vida... $2,49 kg<br>
+Tomate Italiano... $4,49 kg<br>
+Tomate Cereja... $3,99 bandeja<br>
+Uva... $6,99kg<br>
+Vagem... $3,99 bandeja com 150g
+<br><br>
+30 ovos Branco (extra)... $14,90<br>
+12 ovos brancos (extra)... $6,90<br><br>
+30 ovos Vermelho (extra)... $15,90 <br>
+12 ovos vermelhos (extra)... $7,90 
+<br><br>
+Erva mate (granel)... $12,50kg<br>
+Erva Mate De Valérios 500g $7,<br>
+Erva Mate Nativa Original 500g $8,50<br><br>
+Erva Mate Nativa moída grossa $8,50
+<br><br>
+Pão Caseiro... $6,00<br>
+Queijo Colonial... $38,90 kg<br>
+Chimia Colonial  710g (sabores)... apartir de 12,90
+<br><br>
+Carvão 3kg... $8,90 unid.<br>
+Carvão 4kg... $10,90 unid.<br>
+Carvão 5kg... $12,90 unid.<br>
+Lenha Acácia Negra 10kg... $12,00<br>
+Suco de Uva Integral 1,45L... $14,90 EM FALTA<br>
+Vinho Tinto Suave 1,5L... $14,90 EM FALTA<br>
+Vinho Tinto Seco 1,5L... $14,90 EM FALTA<br>
+Vinho Tinto Suave 4,5L... $39,90
+<br><br>
+Linha Fruki - Água, Cerveja, Energético, Refri e Suco
+CONSULTE PREÇOS
+<br><br>
+Temperos e chás diversos (20g)... A partir de $2,99
+<br><br>
+Bolachas e biscoitos diversos (coloniais)... A partir de $6,50
+						</div>
+					</div>
+
+				<!-- Main -->
+
+	</div>
+
+	<!-- Footer -->
+		<div id="footer" class="wrapper style2">
+			<div class="container">
+				<section>
+						<h2>ATENDIMENTO<br><br>Segunda a sexta 8h às 19h<br>Sábado 9h às 18h</h2><br><p>Avenida Brino, N° 402, Porto Alegre - RS.</p>
+				</section>
+			</div>
+		</div>
+
+	<!-- Copyright -->
+		<div id="copyright">
+			<div class="container">
+				<div class="copyright">
+					<p><a href="https://api.whatsapp.com/send?phone=555130299781"> <img src="images/whats.jpg" alt="" /></a></p>
+					<h2>FAÇA SEU PEDIDO!</h2>
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>
